@@ -1,2 +1,3 @@
 # interactive-cli-app
-Project based on this tutorial https://www.robinwieruch.de/node-js-cli/
+
+Project based on [this tutorial](https://www.robinwieruch.de/node-js-cli/), from Robin Wieruch.
